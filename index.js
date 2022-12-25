@@ -20,7 +20,11 @@ const respostas = ["Certeza!",
   "As perspectivas não são tão boas.",
   "Sim.",
   "Concentre-se e pergunte novamente.",
-  "Sinais apontam que sim.",]
+  "Sinais apontam que sim.",
+  "Pode ser que aconteça.",
+  "As chances são mínimas.",
+  "Continue trabalhando nisso.",
+  "Não desista! Uma hora pode dar certo.",]
 
   function fazerPergunta() {
      if(inputPergunta.value == "") {

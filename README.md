@@ -1,32 +1,23 @@
-# Maratona-Explorer-1
-# HTML
-- HyperText Markup Language
+<h1 align='center'>🔮Maratona Explorer</h1>
 
-- Hiper Texto?
-- Marcação
-  - tags
-  - atributos
-- Linguagem
-  - maneira de escrever
+<img src='./images/img.jpeg'>
 
-# CSS
+## 🔍 Sobre
 
-- Apresentação visual para o cliente
-- Estilos para o HTML
-- Cascading Style Sheets
-  - Folha de Estilo em Cascata
+<p align='center'>O projeto traz uma lista de respostas aleatórias</p>
 
-# Declaração
-- Seletor
-- Propriedade e Valor
+<br>
 
-# Conceitos
-- Cascata
-- Especificidade
-- Box Model
-- Display block vs inline
+## 🧑‍💻 Tecnologias Utilizadas
+- HTML
+- CSS
+- JavaScript
+- Git
 
+## 🚀 Desafio
+- Gerar um resultado com respostas aleatórios por meio das funções Math.floor() e Math.random()
 
+<br><br>
 
-### imagem bola de cristal
+### Imagem bola de cristal
 https://gist.githubusercontent.com/maykbrito/0acdf4ce919838ffed50915a31fc5b23/raw/6f4dd01ec3116428ec4c99255944cb9ac7927590/cristal-ball.svg
